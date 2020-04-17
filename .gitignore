@@ -1,0 +1,10 @@
+.idea/
+*.user
+*.swp
+.DS_STORE
+**/**/obj/
+**/**/bin/
+.DS_Store
+.vscode
+!.vscode/extensions.json
+!.vscode/settings.json
